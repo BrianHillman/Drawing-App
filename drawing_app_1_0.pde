@@ -1,3 +1,7 @@
+//Created by Brian Hillman
+//Tested with processint 1.5.1
+//Questions or comments? feel free to email me: BrianJHillman@gmail.com
+
 boolean SHAPE_POINTS_AS_NUMBERS= true;
 ShapeInterface[] dataPoints = new ShapeInterface[300];
 boolean pointSelected = false;
