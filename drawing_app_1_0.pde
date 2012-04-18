@@ -1,4 +1,4 @@
-//Created by Brian Hillman
+//Created by Brian Hillman.
 //Tested with processint 1.5.1
 //Questions or comments? feel free to email me: BrianJHillman@gmail.com
 
